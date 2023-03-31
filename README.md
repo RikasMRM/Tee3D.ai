@@ -1,6 +1,6 @@
 # Tee3D.ai AI-Powered 3D T-Shirt Designing Platform
-![My Image](Tee3D.ai.jpg)
-![My Image](dallE.jpg)
+![My Image](Tee3D.ai.png)
+![My Image](dallE.png)
 
 ThreeJS 3D product website and infuse it with the power of artificial intelligence!
 
